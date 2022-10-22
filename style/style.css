@@ -92,4 +92,8 @@ body {
     background-size: contain ;
     background-image: url(../image/home/colections/icons/shoppingbags1.svg);
 }
+.home{
+    display: flex;
+    
+}
 
